@@ -1,0 +1,7 @@
+setup.py
+jetcamera/__init__.py
+jetcamera/camera.py
+jetcamera.egg-info/PKG-INFO
+jetcamera.egg-info/SOURCES.txt
+jetcamera.egg-info/dependency_links.txt
+jetcamera.egg-info/top_level.txt
